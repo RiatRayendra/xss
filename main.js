@@ -1,5 +1,5 @@
-var txt1 = “Niagahoster “;
+var txt1 = "Niagahoster";
 
-txt1 += “Cara Membuat JavaScript di HTML – Niagahoster”;
+txt1 += "Cara Membuat JavaScript di HTML – Niagahoster";
 
-alert(txt1)    
+alert(txt1)
